@@ -1,0 +1,15 @@
+.formControl.error input,
+.formControl.error textarea {
+    border: solid orangered 2px;
+}
+
+.formControl.error span {
+    border: solid orangered 2px;
+}
+
+.formError {
+    display: inline-block;
+    border: 1px solid orangered;
+    padding: 10px;
+    color: orangered;
+}

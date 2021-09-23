@@ -1,0 +1,31 @@
+.header {
+   position: sticky;
+   top: 0;
+   min-height: 80px;
+   background-color: rgb(255, 255, 204);
+   grid-area: h;
+   display: grid;
+   grid-template-columns: 80px 10fr 80px;
+   border-radius: 10px;
+}
+
+.logo {
+   width: 80px;
+   margin-left: 10px;
+   border-radius: 10px;
+}
+
+.header h1 {
+   color: #806600;
+   font-family: 'Noto Sans JP', sans-serif;
+   font-size: 30px;
+   font-weight: bold;
+   text-align: center;
+   text-shadow: 1px 1px 2px #000066;
+}
+
+
+
+.loginBlock a {
+   color: red;
+}

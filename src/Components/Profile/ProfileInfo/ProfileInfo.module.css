@@ -1,0 +1,17 @@
+.about {
+   display: grid;
+   grid-template-columns: 1fr 5fr;
+   padding: 10px;
+}
+
+.ava img {
+   width: 150px;
+   height: 150px;
+   border-radius: 50%;
+}
+
+
+.info {
+   font-family: 'Noto Sans JP', sans-serif;
+}
+
