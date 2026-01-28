@@ -211,6 +211,22 @@ http://194.143.148.28:8080/KINEKO/index.m3u8
 https://s.ontivi.net/N3V7loFZ2jjfj80MoIRkdQ/586/1769651397/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.dynadot.com/domain/logo/red-logo1720419640.webp" group-title="Кино",.red
 https://s.ontivi.net/umhX_JkGVMQ70Oec-gL0lw/576/1769651597/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.iptv.rt.ru/imo/transform/profile=serviceposter376x502/images/cf4k9f3ir4ssk1208gd0.png" group-title="Кино",AMEDIA Premium
+http://158.101.222.193:88/georgia_play.php?id=amediapremium
+#EXTINF:-1 tvg-logo="https://cdn.creazilla.com/cliparts/7829320/amedia-hit-tv-channel-clipart-original.png" group-title="Кино",AMEDIA Hit
+http://158.101.222.193:88/georgia_play.php?id=amediahit
+#EXTINF:-1 tvg-id="ntv-serial" tvg-logo="https://iptvx.one/picons/ntv-serial.png" group-title="Кино",НТВ Сериал
+http://cdn2.ntv.ru/th_serial/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vits.tv/images/tvstation/russia/sci-fi.png" group-title="Кино",.sci-fi
+http://158.101.222.193:88/georgia_play.php?id=scifi
+#EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/01/17/06/5hk.png" group-title="Кино",ЕвроКино
+http://31.148.48.15/Evrokino/tracks-v1a1/mono.m3u8?token=iptv.org.ua
+#EXTINF:-1 tvg-logo="https://toplogos.ru/images/logo-tv-xxi.png" group-title="Кино",TV XXI
+https://s.xittv.net/V_PraqsUSAcdj5ACkiXWPQ/133/1769657138/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/logo_nst_1.png" group-title="Кино",НСТ
+http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/Indiya-logo%20%281%29.jpg" group-title="Кино",ИНДИЯ
+http://hls127.freeott.top:8080/Zee_Russia/video.m3u8
 
 #EXTINF:-1 tvg-logo="https://s1.vcdn.biz/static/f/9641702881/image.jpg" group-title="Кино",Viasat Kino Comedy
 http://ukr.ukrainske.tv/493/keytvainua/video.m3u8
@@ -246,8 +262,6 @@ http://158.101.222.193:88/georgia_play.php?id=illuzionplus
 http://176.118.197.101/Illuzion+/index.m3u8
 #EXTINF:-1 group-title="Кино",eurokino
 http://158.101.222.193:88/georgia_play.php?id=eurokino
-#EXTINF:-1 group-title="Кино",Евро кино
-http://31.148.48.15/Evrokino/tracks-v1a1/mono.m3u8?token=iptv.org.ua
 #EXTINF:-1 group-title="Кино",ЕВРОКИНО sd
 http://176.118.197.101/Evrokino/index.m3u8
 #EXTINF:-1 group-title="Кино",ЕВРОКИНО
@@ -290,22 +304,14 @@ http://158.101.222.193:88/georgia_play.php?id=amedia
 http://158.101.222.193:88/georgia_play.php?id=amedia2
 #EXTINF:-1 group-title="Кино",Amedia 2 kz
 http://sc.id-tv.kz/A2_36_37.m3u8
-#EXTINF:-1 group-title="Кино",Amedia Hit
-http://158.101.222.193:88/georgia_play.php?id=amediahit
-#EXTINF:-1 group-title="Кино",Amedia Premium
-http://158.101.222.193:88/georgia_play.php?id=amediapremium
 #EXTINF:-1 group-title="Кино",SCI-FI
 http://86.57.209.210/Sci-Fi/index.m3u8
-#EXTINF:-1 group-title="Кино",.sci-fi
-http://158.101.222.193:88/georgia_play.php?id=scifi
 #EXTINF:-1 group-title="Кино",Sci-Fi HD
 http://188.237.47.212:6001
 #EXTINF:-1 group-title="Кино",Black HD
 http://188.237.47.212:6007
 #EXTINF:-1 group-title="Кино",black
 http://158.101.222.193:88/georgia_play.php?id=black
-#EXTINF:-1 group-title="Кино",НСТ
-http://80.77.52.3/streams/media/nstv_720x576/index.m3u8
 #EXTINF:-1 group-title="Кино",НСТ SD
 http://vod.tuva.ru/nst/index.m3u8
 #EXTINF:-1 group-title="Кино",Сериал Пёс
@@ -1560,8 +1566,6 @@ http://hls127.freeott.top:8080/Amedia_2_HD/video.m3u8
 http://hls127.freeott.top:8080/Mosfilm/video.m3u8
 #EXTINF:-1 group-title="Cloudflare_Inc",VIP Megahit
 http://hls127.freeott.top:8080/ViP_Megahit/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",Индия
-http://hls127.freeott.top:8080/Zee_Russia/video.m3u8
 #EXTINF:-1 group-title="Cloudflare_Inc",Bolt
 http://hls127.freeott.top:8080/Bolt/video.m3u8
 #EXTINF:-1 group-title="Cloudflare_Inc",Футбол
@@ -1582,6 +1586,7 @@ http://hls127.freeott.top:8080/Bober/video.m3u8
 http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
 #EXTINF:-1 group-title="Cloudflare_Inc",СТС Kids
 http://hls127.freeott.top:8080/STS_Kids/video.m3u8
+
 
 
 
