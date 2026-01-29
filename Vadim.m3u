@@ -209,6 +209,8 @@ http://185.46.16.239:8000/Illyuzion+
 http://194.143.148.28:8080/KINEKO/index.m3u8
 #EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/07/23/60/lkx.png" group-title="Кино",Hollywood HD
 https://s.ontivi.net/N3V7loFZ2jjfj80MoIRkdQ/586/1769651397/index.m3u8
+#EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/07/23/60/lkx.png" group-title="Кино",Hollywood HD
+https://s.ontivi.net/586/index.m3u8?k=1769736554p442i411i351i59S11f28a40c5254f51260a3f44070a22cf
 #EXTINF:-1 tvg-logo="https://www.dynadot.com/domain/logo/red-logo1720419640.webp" group-title="Кино",.red
 https://s.ontivi.net/umhX_JkGVMQ70Oec-gL0lw/576/1769651597/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.iptv.rt.ru/imo/transform/profile=serviceposter376x502/images/cf4k9f3ir4ssk1208gd0.png" group-title="Кино",AMEDIA Premium
@@ -1632,6 +1634,7 @@ http://hls127.freeott.top:8080/MATCH_TV/video.m3u8
 http://hls127.freeott.top:8080/Dikiy/video.m3u8
 #EXTINF:-1 group-title="Cloudflare_Inc",Gags Network
 http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
+
 
 
 
