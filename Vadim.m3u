@@ -751,8 +751,8 @@ http://185.46.16.239:8000/Detskiy
 http://62.89.220.15/streams/media/sts-kids_720x576/index.m3u8
 #EXTINF:-1 group-title="Детский",СТС Kids
 http://hls127.freeott.top:8080/STS_Kids/video.m3u8
-#EXTINF:-1 group-title="Детский",ЧИЖИК
-http://empty.m3u8
+#EXTINF:-1 group-title="Детский",ЧИЖИК HD
+http://315e5a5d.ottrast.com/iptv/BF9GWX8VNPYM9X/14034/index.m3u8
 #EXTINF:-1 group-title="Детский",TiJi 
 http://193.27.209.122/tiji/index.m3u8
 #EXTINF:-1 group-title="Детский",TiJi
@@ -842,69 +842,93 @@ http://185.78.112.57:8077/AnimalPlanetRussiaHD/index.m3u8
 #EXTINF:-1 group-title="Познавательный",Discovery HD
 http://185.78.112.57:8077/DiscoveryChannelHD/index.m3u8
 #EXTINF:-1 group-title="Познавательный",ID HD
-http://empty.m3u8
+https://s.tivix.co/Aa7YXAvTLfVPU7IJrFOEIQ/570/1769732086/index.m3u8
 #EXTINF:-1 group-title="Познавательный",Моя Планета HD
 http://185.46.16.239:8000/Planeta_HD
 #EXTINF:-1 group-title="Познавательный",Моя Планета
 http://vod.tuva.ru/myplanet/index.m3u8
 #EXTINF:-1 group-title="Познавательный",Живая планета
 http://185.46.16.239:8000/Zhivaya_Planeta
+#EXTINF:-1 group-title="Познавательный",Живая планета
+http://185.223.125.136:8005/jp?token=test
 #EXTINF:-1 group-title="Познавательный",365 дней ТВ
-http://empty.m3u8
+https://s.viks.tv/iNOWrdff0hgkbgmR6IbPgg/108/1769732206/index.m3u8
 #EXTINF:-1 group-title="Познавательный",Ностальгия
 http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
 #EXTINF:-1 group-title="Познавательный",TOP SECRET
-http://empty.m3u8
-#EXTINF:-1 group-title="Познавательный",ВРЕМЯ
-http://empty.m3u8
+https://s.domatv.net/5sUqOJYS_HsL8GSpnmQfoA/546/1769732340/index.m3u8
+#EXTINF:-1 tvg-id="vremia" tvg-logo="https://iptvx.one/picons/vremia.png" group-title="Познавательный",ВРЕМЯ
+https://cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya.m3u8
 #EXTINF:-1 group-title="Познавательный",КТО ЕСТЬ КТО
-http://empty.m3u8
-#EXTINF:-1 group-title="Познавательный",История
-http://empty.m3u8
+https://tv.tvcdnpotok.com/COnFt_qnVpUVnOGpV5v-sQ/2023/1769732415/index.m3u8
+#EXTINF:-1 tvg-id="istoria" tvg-logo="https://iptvx.one/picons/istoria.png" group-title="Познавательный",История
+http://185.46.16.239:8000/Istoriya
+#EXTINF:-1 tvg-id="rtg-hd" tvg-logo="https://iptvx.one/picons/rtg-hd.png" group-title="Познавательный",Russian Travel Guide HD
+http://tv.streams.baikal-telecom.net:8080/RTG_HD/index.m3u8
 #EXTINF:-1 group-title="Познавательный",Russian Travel Guide
 http://hls127.freeott.top:8080/RTG_TV/video.m3u8
-#EXTINF:-1 group-title="Познавательный",Телепутешествия
-http://empty.m3u8
+#EXTINF:-1 tvg-id="teleputeshestvia" tvg-logo="https://iptvx.one/picons/teleputeshestvia.png" group-title="Познавательный",Телепутешествия
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Telepyt
 #EXTINF:-1 group-title="Познавательный",Приключения HD
-http://empty.m3u8
+https://s.ontivi.net/_uwhr3_5xvW10xMvgUeP8Q/542/1769732474/index.m3u8
+#EXTINF:-1 group-title="Познавательный",360° HD
+http://dmitry-tv.ddns.net/hls/CH_360TVHD.m3u8
+#EXTINF:-1 group-title="Познавательный",360°
+http://dmitry-tv.ddns.net/hls/CH_360TV.m3u8
 #EXTINF:-1 group-title="Познавательный",Телеканал 360 HD
 http://empty.m3u8
 #EXTINF:-1 group-title="Познавательный",Доктор
 http://185.46.16.239:8000/Doktor
 #EXTINF:-1 group-title="Познавательный",Техно 24
 http://185.223.125.136:8005/t24?token=test
+#EXTINF:-1 group-title="Познавательный",Техно 24
+http://158.101.222.193:88/georgia_play.php?id=24techno
+#EXTINF:-1 tvg-id="terra-ru" tvg-logo="https://iptvx.one/picons/terra-ru.png" group-title="Познавательный" ,TERRA HD
+https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 #EXTINF:-1 group-title="Познавательный",TERRA
-http://empty.m3u8
+http://185.223.125.136:8005/ng?token=test
 #EXTINF:-1 group-title="Познавательный",Тайна
-http://empty.m3u8
-#EXTINF:-1 group-title="Познавательный",В МИРЕ ЖИВОТНЫХ HD
-http://empty.m3u8
+https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=RAlLKrkj97-hq1uC62S2eQ&e=2069025312&scheme=https
+#EXTINF:-1 tvg-id="v-mire-zhivotnyx-hd" tvg-logo="https://iptvx.one/picons/v-mire-zhivotnyx.png" group-title="Познавательный",В МИРЕ ЖИВОТНЫХ HD
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Anim_Fam
 #EXTINF:-1 group-title="Познавательный",Наука
 http://hls127.freeott.top:8080/NAUKA/video.m3u8
 #EXTINF:-1 group-title="Познавательный",Наука
 http://185.223.125.136:8005/nauka?token=test
 #EXTINF:-1 group-title="Познавательный",ТОЧКА.РФ
-http://empty.m3u8
-#EXTINF:-1 group-title="Познавательный",Первый Космический HD
-http://empty.m3u8
+http://158.101.222.193:88/georgia_play.php?id=hdlife
+#EXTINF:-1 tvg-id="eureka-hd" tvg-logo="https://iptvx.one/picons/kosmichesky.png" group-title="Познавательный",Первый Космический HD
+http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Eureka
 #EXTINF:-1 group-title="Познавательный",Тайны Галактики HD
-http://empty.m3u8
+https://s.domatv.net/k39wgvOfxe4Q2mx6NkiCxA/205/1769732941/index.m3u8
 #EXTINF:-1 group-title="Познавательный",БОБЕР
 http://hls127.freeott.top:8080/Bober/video.m3u8
+#EXTINF:-1 group-title="Познавательный",ОКЕАН HD
+https://mhd158.iptv2022.com/x/r5MGj1N5kE_6Xgx01vXRGg,1769801060/streaming/oceantv/324/5/index.m3u8
 #EXTINF:-1 group-title="Познавательный",ОКЕАН
-http://empty.m3u8
+http://185.223.125.136:8005/Ocean?token=test
+#EXTINF:-1 group-title="Познавательный",ОКЕАН
+http://185.78.112.57:8077/OceanTV/index.m3u8
+#EXTINF:-1 group-title="Познавательный",ОКЕАН
+http://86.57.209.210/Ocean/index.m3u8
 #EXTINF:-1 group-title="Познавательный",Zоопарк
-http://empty.m3u8
+http://188.225.31.197/bpk-tv/000000260/tve/index.m3u8
+#EXTINF:-1 group-title="Познавательный",Zоопарк
+http://185.78.112.57:8077/Zoopark/index.m3u8
+#EXTINF:-1 group-title="Познавательный",Zоопарк
+http://185.223.125.136:8005/zoopark?token=test
+#EXTINF:-1 group-title="Познавательный",Zоопарк
+http://158.101.222.193:88/georgia_play.php?id=zoo
 #EXTINF:-1 group-title="Познавательный",Мама
 http://62.89.220.15/streams/media/mama_720x576/index.m3u8
-#EXTINF:-1 group-title="Познавательный",НТВ Право
-http://empty.m3u8
+#EXTINF:-1 tvg-id="ntv-pravo" tvg-logo="https://iptvx.one/picons/ntv-pravo.png" group-title="Познавательный",НТВ Право
+https://cdn.ntv.ru/th_pravo/playlist.m3u8
 #EXTINF:-1 group-title="Познавательный",ТБН
-http://empty.m3u8
+https://5f05e059699ae.streamlock.net/WEB_TBN/ngrp:TBN.stream-adaptive/playlist.m3u8
 #EXTINF:-1 tvg-id="spas" tvg-logo="https://iptvx.one/picons/spas.png" group-title="Познавательный",СПАС
 http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Познавательный",ЗВЕЗДА плюс
-http://empty.m3u8
+https://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
 #EXTINF:-1 group-title="Познавательный",Big Planet HD
 http://empty.m3u8
 #EXTINF:-1 group-title="Познавательный",Womens Magazine
@@ -918,10 +942,6 @@ http://185.57.68.33/40/index.m3u8
 http://188.237.47.212:6005
 #EXTINF:-1 group-title="Познавательный",Motorvision TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
-#EXTINF:-1 group-title="Познавательный",24 техно
-http://158.101.222.193:88/georgia_play.php?id=24techno
-#EXTINF:-1 group-title="Познавательный",Зоопарк
-http://158.101.222.193:88/georgia_play.php?id=zoo
 #EXTINF:-1 group-title="Познавательный",Мужской
 http://158.101.222.193:88/georgia_play.php?id=muzhskoy
 #EXTINF:-1 group-title="Познавательный",Авто 24
@@ -934,8 +954,6 @@ http://185.164.82.18:9010/ykMHqK_NatGeoWild
 http://185.164.82.18:9009/aDxLhVQm_Drive
 #EXTINF:-1 group-title="Познавательный",Наука 2.0
 http://185.46.16.239:8000/Nauka_2.0
-#EXTINF:-1 group-title="Познавательный",Ocean TV
-http://86.57.209.210/Ocean/index.m3u8
 #EXTINF:-1 group-title="Познавательный",Наука 2.0
 http://vod.tuva.ru/nauka2/index.m3u8
 #EXTINF:-1 group-title="Познавательный",History HD
@@ -946,16 +964,12 @@ http://185.78.112.57:8077/natgeo_wild_hd/index.m3u8
 http://185.78.112.57:8077/TravelChannelHD/index.m3u8
 #EXTINF:-1 group-title="Познавательный",Дикая рыбалка
 http://185.78.112.57:8077/DikayaRybalkaHD/index.m3u8
-#EXTINF:-1 group-title="Познавательный",Ocean TV
-http://185.78.112.57:8077/OceanTV/index.m3u8
 #EXTINF:-1 group-title="Познавательный",Дикая охота
 http://185.78.112.57:8077/DikayaOxotaHD/index.m3u8
 #EXTINF:-1 group-title="Познавательный",Рыболов
 http://185.78.112.57:8077/ohotnik/index.m3u8
 #EXTINF:-1 group-title="Познавательный",Загородный
 http://185.78.112.57:8077/Zagorodniy/index.m3u8
-#EXTINF:-1 group-title="Познавательный",Зоопарк
-http://185.78.112.57:8077/Zoopark/index.m3u8
 #EXTINF:-1 group-title="Познавательный",Дикий
 http://185.78.112.57:8077/Dikiy/index.m3u8
 #EXTINF:-1 group-title="Познавательный",Охотник и рыболов HD
@@ -964,20 +978,12 @@ http://185.78.112.57:8077/ohot_i_rybolov_hd/index.m3u8
 http://185.223.125.136:8005/a24?token=test
 #EXTINF:-1 group-title="Познавательный",Загородная Жизнь
 http://185.223.125.136:8005/zj?token=test
-#EXTINF:-1 group-title="Познавательный",Живая Планета
-http://185.223.125.136:8005/jp?token=test
-#EXTINF:-1 group-title="Познавательный",Терра
-http://185.223.125.136:8005/ng?token=test
 #EXTINF:-1 group-title="Познавательный",Телекафе
 http://185.223.125.136:8005/krik?token=test
 #EXTINF:-1 group-title="Познавательный",Моя планета
 http://185.223.125.136:8005/mp?token=test
-#EXTINF:-1 group-title="Познавательный",Зоопарк
-http://185.223.125.136:8005/zoopark?token=test
 #EXTINF:-1 group-title="Познавательный",TLC
 http://185.223.125.136:8005/tlc?token=test
-#EXTINF:-1 group-title="Познавательный",Ocean TV
-http://185.223.125.136:8005/Ocean?token=test
 #EXTINF:-1 group-title="Познавательный",Аппетитный
 http://185.223.125.136:8005/HDL?token=test
 #EXTINF:-1 group-title="Познавательный",Глазами Туриста HD
@@ -1626,6 +1632,7 @@ http://hls127.freeott.top:8080/MATCH_TV/video.m3u8
 http://hls127.freeott.top:8080/Dikiy/video.m3u8
 #EXTINF:-1 group-title="Cloudflare_Inc",Gags Network
 http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
+
 
 
 
