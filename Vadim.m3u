@@ -117,6 +117,10 @@ https://s.viks.tv/Y53IC2VWEubop3b8rsn2SQ/591/1769631206/index.m3u8
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnh3gV6E0b7VXhpCGGdaLATCNfQgfNmi9_hA&s" group-title="Общий",В гостях у сказки HD
 https://stream08.sputnik24.tv/skazka_hd/index.m3u8?sig=1769642149_92ccd9ae9191ad205d4f4eac43883200
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnh3gV6E0b7VXhpCGGdaLATCNfQgfNmi9_hA&s" group-title="Общий",В гостях у сказки HD
+http://185.46.16.239:8000/V_gostyakh_u_skazki
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnh3gV6E0b7VXhpCGGdaLATCNfQgfNmi9_hA&s" group-title="Общий",В гостях у сказки
+http://62.89.220.15/streams/media/v-gostyah-u-skazki_720x576/index.m3u8
 #EXTINF:-1 tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir.png" group-title="Общий",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/5kanal-ru.png" group-title="Общий",Пятый канал
@@ -135,8 +139,6 @@ https://a787200748-rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/playlist.m3u8
 https://serv25.vintera.tv/kaleidoscop/kaleidoscop_sd/playlist.m3u8
 #EXTINF:-1 tvg-id="rossia-24" tvg-logo="https://iptvx.one/picons/rossia-24.png" group-title="Общий",Россия 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
-#EXTINF:-1 tvg-id="karusel" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="Общий",Карусель
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/otr.png" group-title="Общий",ОТР
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 #EXTINF:-1 tvg-id="rentv-int" tvg-logo="https://iptvx.one/picons/rentv-int.png" group-title="Общий",РЕН ТВ Int.
@@ -450,6 +452,237 @@ http://158.101.222.193:88/georgia_play.php?id=nostalgy
 http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
 
 
+#EXTINF:-1 group-title="Детский",Мульт HD
+http://185.46.16.239:8000/Mir_24
+#EXTINF:-1 group-title="Детский",Мульт
+http://86.57.209.210/Mult/index.m3u8
+#EXTINF:-1 group-title="Детский",Мульт
+http://185.46.16.239:8000/Mult
+#EXTINF:-1 group-title="Детский",Мульт
+http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
+#EXTINF:-1 group-title="Детский",Мультиландия
+http://31.148.48.15/Multilandiya/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Детский",Мультиландия
+http://217.11.177.55/streams/media/multilandiya_720x576/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/karusel.png" group-title="Детский",Карусель
+https://streaming.goodstream.cyou/live/232.m3u8
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/karusel.png" group-title="Детский",Карусель
+http://5.188.221.43:8080/play/karusel
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/karusel.png" group-title="Детский",Карусель
+http://185.46.16.239:8000/Karusel
+#EXTINF:-1 tvg-logo="https://iptvx.one/picons/karusel.png" group-title="Детский",Карусель
+http://185.78.112.57:8077/karusel/index.m3u8
+#EXTINF:-1 tvg-id="karusel" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="https://iptvx.one/picons/karusel.png" group-title="Детский",Карусель
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+#EXTINF:-1 group-title="Детский",СОЛНЦЕ
+http://5.188.221.43:8080/play/disney
+#EXTINF:-1 group-title="Детский",СОЛНЦЕ
+http://185.46.16.239:8000/Disney_Channel
+#EXTINF:-1 group-title="Детский",Детский мир
+http://158.101.222.193:88/georgia_play.php?id=detskymir
+#EXTINF:-1 group-title="Детский",Детский мир
+http://185.78.112.57:8077/Detskiy_Mir/index.m3u8
+#EXTINF:-1 group-title="Детский",Детский Мир
+http://62.89.220.15/streams/media/detskiy-mir_720x576/index.m3u8
+#EXTINF:-1 group-title="Детский",Уникум
+https://flussonic.salomtv.uz/Detskiy/video.m3u8
+#EXTINF:-1 group-title="Детский",Уникум
+http://62.89.220.15/streams/media/detskiy_720x576/index.m3u8
+#EXTINF:-1 group-title="Детский",Уникум
+http://158.101.222.193:88/georgia_play.php?id=unikum
+#EXTINF:-1 group-title="Детский",Уникум
+http://185.46.16.239:8000/Detskiy
+#EXTINF:-1 group-title="Детский",СТС Kids
+http://62.89.220.15/streams/media/sts-kids_720x576/index.m3u8
+#EXTINF:-1 group-title="Детский",СТС Kids
+http://hls127.freeott.top:8080/STS_Kids/video.m3u8
+#EXTINF:-1 group-title="Детский",ЧИЖИК
+http://empty.m3u8
+#EXTINF:-1 group-title="Детский",TiJi 
+http://193.27.209.122/tiji/index.m3u8
+#EXTINF:-1 group-title="Детский",TiJi
+http://185.78.112.57:8077/TiJi/index.m3u8
+#EXTINF:-1 group-title="Детский",Tiji
+http://62.89.220.15/streams/media/tiji_720x576/index.m3u8
+#EXTINF:-1 group-title="Детский",Gulli
+http://62.89.220.15/streams/media/gulli-girl_720x576/index.m3u8
+#EXTINF:-1 group-title="Детский",О!
+http://185.78.112.57:8077/o_/index.m3u8
+#EXTINF:-1 group-title="Детский",Мультимузыка
+http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
+#EXTINF:-1 group-title="Детский",Ani
+http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
+#EXTINF:-1 group-title="Детский",Ani
+http://185.46.16.239:8000/Ani
+#EXTINF:-1 group-title="Детский",Ani
+http://62.89.220.15/streams/media/ani_720x576/index.m3u8
+#EXTINF:-1 group-title="Детский",Da Vinci
+http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
+#EXTINF:-1 group-title="Детский",Da Vinci
+http://158.101.222.193:88/georgia_play.php?id=davinci
+#EXTINF:-1 group-title="Детский",Da Vinci
+http://185.78.112.57:8077/DaVinci_Learning/index.m3u8
+#EXTINF:-1 group-title="Детский",СуперГерои
+http://86.57.209.210/Malish/index.m3u8
+#EXTINF:-1 group-title="Детский",СуперГерои
+http://158.101.222.193:88/georgia_play.php?id=malysh
+#EXTINF:-1 group-title="Детский",СуперГерои
+http://185.46.16.239:8000/National_Geographic_HD
+#EXTINF:-1 group-title="Детский",СуперГерои
+http://185.78.112.57:8077/malish/index.m3u8
+
+
+#EXTINF:-1 group-title="Детский",Кнопка ТВ
+http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
+#EXTINF:-1 group-title="Детский",Duck TV HD
+http://193.27.209.122/ducktv/index.m3u8
+#EXTINF:-1 group-title="Детский",Детское кино International
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 group-title="Детский",HGTN
+https://v2.catcast.tv/content/34251/index.m3u8
+#EXTINF:-1 group-title="Детский",Carousel International
+https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
+#EXTINF:-1 group-title="Детский",Чип и Дейл
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1 group-title="Детский",СоюзМультфильм
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 group-title="Детский",Axterix
+http://filmtvgroup.hopto.org/AxteriX/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
+#EXTINF:-1 group-title="Детский",2x2
+http://5.188.221.43:8080/play/2x2
+#EXTINF:-1 group-title="Детский",JimJam
+http://185.78.112.57:8077/JimJam/index.m3u8
+#EXTINF:-1 group-title="Детский",Nickelodeon
+http://185.78.112.57:8077/nickelodeon/index.m3u8
+#EXTINF:-1 group-title="Детский",Boomerang
+http://185.78.112.57:8077/Boomerang/index.m3u8
+#EXTINF:-1 group-title="Детский",Cartoon network
+http://185.78.112.57:8077/cartoon-net/index.m3u8
+#EXTINF:-1 group-title="Детский",Мульт и музыка
+http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
+#EXTINF:-1 group-title="Детский",Пингвин Лоло
+http://62.89.220.15/streams/media/pingvin_720x576/index.m3u8
+#EXTINF:-1 group-title="Детский",Мама
+http://62.89.220.15/streams/media/mama_720x576/index.m3u8
+
+
+#EXTINF:-1 group-title="Познавательный",Viasat Explore
+http://158.101.222.193:88/georgia_play.php?id=viasatexp
+#EXTINF:-1 group-title="Познавательный",Viasat Explore
+http://185.223.125.136:8005/ve?token=test
+#EXTINF:-1 group-title="Познавательный",Viasat Explore
+http://188.208.197.173/viasat-explore/video.m3u8?token=tvon
+#EXTINF:-1 group-title="Познавательный",Viasat History HD
+http://185.78.112.57:8077/ViasatHistoryHD/index.m3u8
+#EXTINF:-1 group-title="Познавательный",Viasat History
+http://158.101.222.193:88/georgia_play.php?id=viasathist
+#EXTINF:-1 group-title="Познавательный",Viasat History
+http://185.223.125.136:8005/vh?token=test
+#EXTINF:-1 group-title="Познавательный",Viasat Nature HD
+http://185.78.112.57:8077/viju_nature_hd/index.m3u8
+#EXTINF:-1 group-title="Познавательный",Viasat Nature
+http://158.101.222.193:88/georgia_play.php?id=viasatnat
+#EXTINF:-1 group-title="Познавательный",Viasat Nature
+http://185.223.125.136:8005/vn?token=test
+#EXTINF:-1 group-title="Познавательный",Viasat Nature
+http://188.208.197.173/viasat-nature/video.m3u8?token=tvon
+#EXTINF:-1 group-title="Познавательный",Animal Planet HD
+http://185.78.112.57:8077/AnimalPlanetRussiaHD/index.m3u8
+
+#EXTINF:-1 group-title="Познавательный",Рыбалка
+http://iptv.prosto.tv:7000/ch344/video.m3u8
+#EXTINF:-1 group-title="Познавательный",ЗЖ
+http://185.57.68.33/40/index.m3u8
+#EXTINF:-1 group-title="Познавательный",Nat Geo Wild HD
+http://188.237.47.212:6005
+#EXTINF:-1 group-title="Познавательный",Motorvision TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+#EXTINF:-1 group-title="Познавательный",24 техно
+http://158.101.222.193:88/georgia_play.php?id=24techno
+#EXTINF:-1 group-title="Познавательный",Зоопарк
+http://158.101.222.193:88/georgia_play.php?id=zoo
+#EXTINF:-1 group-title="Познавательный",Мужской
+http://158.101.222.193:88/georgia_play.php?id=muzhskoy
+#EXTINF:-1 group-title="Познавательный",Авто 24
+http://158.101.222.193:88/georgia_play.php?id=auto24
+#EXTINF:-1 group-title="Познавательный",Авто плюс
+http://158.101.222.193:88/georgia_play.php?id=autoplus
+#EXTINF:-1 group-title="Познавательный",NatGeoWild
+http://185.164.82.18:9010/ykMHqK_NatGeoWild
+#EXTINF:-1 group-title="Познавательный",ДРАЙВ 20
+http://185.164.82.18:9009/aDxLhVQm_Drive
+#EXTINF:-1 group-title="Познавательный",Моя планета HD
+http://185.46.16.239:8000/Planeta_HD
+#EXTINF:-1 group-title="Познавательный",Доктор
+http://185.46.16.239:8000/Doktor
+#EXTINF:-1 group-title="Познавательный",Живая планета
+http://185.46.16.239:8000/Zhivaya_Planeta
+#EXTINF:-1 group-title="Познавательный",Наука 2.0
+http://185.46.16.239:8000/Nauka_2.0
+#EXTINF:-1 group-title="Познавательный",Ocean TV
+http://86.57.209.210/Ocean/index.m3u8
+#EXTINF:-1 group-title="Познавательный",Моя Планета
+http://vod.tuva.ru/myplanet/index.m3u8
+#EXTINF:-1 group-title="Познавательный",Наука 2.0
+http://vod.tuva.ru/nauka2/index.m3u8
+#EXTINF:-1 group-title="Познавательный",Discovery HD
+http://185.78.112.57:8077/DiscoveryChannelHD/index.m3u8
+#EXTINF:-1 group-title="Познавательный",History HD
+http://185.78.112.57:8077/History-HD/index.m3u8
+#EXTINF:-1 group-title="Познавательный",Nat Geo Wild HD
+http://185.78.112.57:8077/natgeo_wild_hd/index.m3u8
+#EXTINF:-1 group-title="Познавательный",Travel Channel HD
+http://185.78.112.57:8077/TravelChannelHD/index.m3u8
+#EXTINF:-1 group-title="Познавательный",Дикая рыбалка
+http://185.78.112.57:8077/DikayaRybalkaHD/index.m3u8
+#EXTINF:-1 group-title="Познавательный",Ocean TV
+http://185.78.112.57:8077/OceanTV/index.m3u8
+#EXTINF:-1 group-title="Познавательный",Дикая охота
+http://185.78.112.57:8077/DikayaOxotaHD/index.m3u8
+#EXTINF:-1 group-title="Познавательный",Рыболов
+http://185.78.112.57:8077/ohotnik/index.m3u8
+#EXTINF:-1 group-title="Познавательный",Загородный
+http://185.78.112.57:8077/Zagorodniy/index.m3u8
+#EXTINF:-1 group-title="Познавательный",Зоопарк
+http://185.78.112.57:8077/Zoopark/index.m3u8
+#EXTINF:-1 group-title="Познавательный",Дикий
+http://185.78.112.57:8077/Dikiy/index.m3u8
+#EXTINF:-1 group-title="Познавательный",Охотник и рыболов HD
+http://185.78.112.57:8077/ohot_i_rybolov_hd/index.m3u8
+#EXTINF:-1 group-title="Познавательный",Техно 24
+http://185.223.125.136:8005/t24?token=test
+#EXTINF:-1 group-title="Познавательный",Авто 24
+http://185.223.125.136:8005/a24?token=test
+#EXTINF:-1 group-title="Познавательный",Загородная Жизнь
+http://185.223.125.136:8005/zj?token=test
+#EXTINF:-1 group-title="Познавательный",Живая Планета
+http://185.223.125.136:8005/jp?token=test
+#EXTINF:-1 group-title="Познавательный",Терра
+http://185.223.125.136:8005/ng?token=test
+#EXTINF:-1 group-title="Познавательный",Телекафе
+http://185.223.125.136:8005/krik?token=test
+#EXTINF:-1 group-title="Познавательный",Моя планета
+http://185.223.125.136:8005/mp?token=test
+#EXTINF:-1 group-title="Познавательный",Зоопарк
+http://185.223.125.136:8005/zoopark?token=test
+#EXTINF:-1 group-title="Познавательный",Наука
+http://185.223.125.136:8005/nauka?token=test
+#EXTINF:-1 group-title="Познавательный",TLC
+http://185.223.125.136:8005/tlc?token=test
+#EXTINF:-1 group-title="Познавательный",Ocean TV
+http://185.223.125.136:8005/Ocean?token=test
+#EXTINF:-1 group-title="Познавательный",Аппетитный
+http://185.223.125.136:8005/HDL?token=test
+#EXTINF:-1 group-title="Познавательный",Глазами Туриста HD
+http://185.223.125.136:8005/mgmhd?token=test
+#EXTINF:-1 group-title="Познавательный",DocuBox
+http://185.223.125.136:8005/nanotv?token=test
+#EXTINF:-1 group-title="Познавательный",Продвижение
+http://185.223.125.136:8005/TDK?token=test
+#EXTINF:-1 group-title="Познавательный",MEGA HD
+http://cdn-bal.srv4you.net/0171/mpegts
+
+
 #EXTINF:-1 group-title="МОЛДОВА 🇲🇩",Realitatea TV
 https://realitatealive.md/tv/rlive.m3u8
 #EXTINF:-1 group-title="МОЛДОВА 🇲🇩",Moldova TV sd
@@ -470,122 +703,6 @@ http://185.164.82.18:9009/aDxLhVQm_PrimaTVMoldova
 http://185.164.82.18:9009/aDxLhVQm_Busuioc
 #EXTINF:-1 group-title="МОЛДОВА 🇲🇩",Drive
 http://185.164.82.18:9009/aDxLhVQm_Drive
-
-
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Рыбалка
-http://iptv.prosto.tv:7000/ch344/video.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",ЗЖ
-http://185.57.68.33/40/index.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Nat Geo Wild HD
-http://188.237.47.212:6005
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Motorvision TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",24 техно
-http://158.101.222.193:88/georgia_play.php?id=24techno
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat explore
-http://158.101.222.193:88/georgia_play.php?id=viasatexp
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat History
-http://158.101.222.193:88/georgia_play.php?id=viasathist
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat Nature
-http://158.101.222.193:88/georgia_play.php?id=viasatnat
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Зоопарк
-http://158.101.222.193:88/georgia_play.php?id=zoo
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Мужской
-http://158.101.222.193:88/georgia_play.php?id=muzhskoy
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Авто 24
-http://158.101.222.193:88/georgia_play.php?id=auto24
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Авто плюс
-http://158.101.222.193:88/georgia_play.php?id=autoplus
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",NatGeoWild
-http://185.164.82.18:9010/ykMHqK_NatGeoWild
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",ДРАЙВ 20
-http://185.164.82.18:9009/aDxLhVQm_Drive
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Моя планета HD
-http://185.46.16.239:8000/Planeta_HD
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Доктор
-http://185.46.16.239:8000/Doktor
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Живая планета
-http://185.46.16.239:8000/Zhivaya_Planeta
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Наука 2.0
-http://185.46.16.239:8000/Nauka_2.0
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Ocean TV
-http://86.57.209.210/Ocean/index.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Моя Планета
-http://vod.tuva.ru/myplanet/index.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Наука 2.0
-http://vod.tuva.ru/nauka2/index.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Discovery HD
-http://185.78.112.57:8077/DiscoveryChannelHD/index.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",History HD
-http://185.78.112.57:8077/History-HD/index.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Nat Geo Wild HD
-http://185.78.112.57:8077/natgeo_wild_hd/index.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Travel Channel HD
-http://185.78.112.57:8077/TravelChannelHD/index.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat History HD
-http://185.78.112.57:8077/ViasatHistoryHD/index.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat Nature HD
-http://185.78.112.57:8077/viju_nature_hd/index.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Дикая рыбалка
-http://185.78.112.57:8077/DikayaRybalkaHD/index.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Ocean TV
-http://185.78.112.57:8077/OceanTV/index.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Дикая охота
-http://185.78.112.57:8077/DikayaOxotaHD/index.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Рыболов
-http://185.78.112.57:8077/ohotnik/index.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Загородный
-http://185.78.112.57:8077/Zagorodniy/index.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Зоопарк
-http://185.78.112.57:8077/Zoopark/index.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Дикий
-http://185.78.112.57:8077/Dikiy/index.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Охотник и рыболов HD
-http://185.78.112.57:8077/ohot_i_rybolov_hd/index.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Animal Planet HD
-http://185.78.112.57:8077/AnimalPlanetRussiaHD/index.m3u8
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Техно 24
-http://185.223.125.136:8005/t24?token=test
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Авто 24
-http://185.223.125.136:8005/a24?token=test
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Загородная Жизнь
-http://185.223.125.136:8005/zj?token=test
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Живая Планета
-http://185.223.125.136:8005/jp?token=test
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat Nature
-http://185.223.125.136:8005/vn?token=test
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat History
-http://185.223.125.136:8005/vh?token=test
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat Explore
-http://185.223.125.136:8005/ve?token=test
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Терра
-http://185.223.125.136:8005/ng?token=test
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Телекафе
-http://185.223.125.136:8005/krik?token=test
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Моя планета
-http://185.223.125.136:8005/mp?token=test
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Зоопарк
-http://185.223.125.136:8005/zoopark?token=test
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Наука
-http://185.223.125.136:8005/nauka?token=test
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",TLC
-http://185.223.125.136:8005/tlc?token=test
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Ocean TV
-http://185.223.125.136:8005/Ocean?token=test
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Аппетитный
-http://185.223.125.136:8005/HDL?token=test
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Глазами Туриста HD
-http://185.223.125.136:8005/mgmhd?token=test
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",DocuBox
-http://185.223.125.136:8005/nanotv?token=test
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Продвижение
-http://185.223.125.136:8005/TDK?token=test
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat Explore
-http://188.208.197.173/viasat-explore/video.m3u8?token=tvon
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",Viasat Nature
-http://188.208.197.173/viasat-nature/video.m3u8?token=tvon
-#EXTINF:-1 group-title="🔎 ПОЗНАВАТЕЛЬНЫЕ",MEGA HD
-http://cdn-bal.srv4you.net/0171/mpegts
 
 
 #EXTINF:-1 group-title="SPORT 🏆",Divi Sport
@@ -1208,120 +1325,6 @@ http://gr.seetv.cc/play/1981/D70CC021CA87DF2/video.m3u8
 http://gr.seetv.cc/play/4611/D70CC021CA87DF2/video.m3u8
 
 
-#EXTINF:-1 group-title="CHILDREN'S",Кнопка ТВ
-http://api.alpaca.t62a.com/hls/9116/stream0.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",Duck TV HD
-http://193.27.209.122/ducktv/index.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",TiJi 
-http://193.27.209.122/tiji/index.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",Мультиландия
-http://217.11.177.55/streams/media/multilandiya_720x576/index.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",Детское кино International
-https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",HGTN
-https://v2.catcast.tv/content/34251/index.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",Carousel International
-https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",Карусель
-https://streaming.goodstream.cyou/live/232.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",Чип и Дейл
-http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",СоюзМультфильм
-http://194.26.229.213/souzmultfilm/index.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",Уникум
-https://flussonic.salomtv.uz/Detskiy/video.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",Супергерои
-http://86.57.209.210/Malish/index.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",Мульт
-http://86.57.209.210/Mult/index.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",Нікчемний Я 4 2024 професійний дубльований
-https://calypso.tortuga.tw/content/stream/films/despicable.me.4.2024.bdremux.1080p.ledoyen.dub_102367/hls/1080/index.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",FILM TV GROUP МультКазки
-http://filmtvgroup.hopto.org/FILM_TV_GROUP_multkazkI/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
-#EXTINF:-1 group-title="CHILDREN'S",FILM TV Леді Баг & Щенячий патруль.
-http://filmtvgroup.hopto.org/ledsbag_schenaychiy_patruL/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
-#EXTINF:-1 group-title="CHILDREN'S",Axterix
-http://filmtvgroup.hopto.org/AxteriX/index.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NjEwMDgwNzMsImV4cCI6MTc2MTA5NDQ3Mywic3ViIjoiQWRtaW4ifQ.q63jEFty3Ry19ORUfTNUPhkvCSFnFBk9mHhXIwaxgLQ
-#EXTINF:-1 group-title="CHILDREN'S",Том і Джеррі-Історія Лускунчика|2007|47 хв|США|мультфільм
-https://zetvideo.net/content/stream/films/tom_and_jerry._a_nutcracker_tale_2007_webdl_1080p_2xukr_eng_hurtom_26704/hls/1080/index.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",Король Лев 3|2004|Хакуна Матата|Австралія|США
-https://zetvideo.net/content/stream/films/the.lion.king.3.2004.bdremux.1080p.ukr.eng_17258/hls/1080/index.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",Супергерои
-http://158.101.222.193:88/georgia_play.php?id=malysh
-#EXTINF:-1 group-title="CHILDREN'S",Da vinci
-http://158.101.222.193:88/georgia_play.php?id=davinci
-#EXTINF:-1 group-title="CHILDREN'S",Уникум
-http://158.101.222.193:88/georgia_play.php?id=unikum
-#EXTINF:-1 group-title="CHILDREN'S",Детский мир
-http://158.101.222.193:88/georgia_play.php?id=detskymir
-#EXTINF:-1 group-title="CHILDREN'S",2x2
-http://5.188.221.43:8080/play/2x2
-#EXTINF:-1 group-title="CHILDREN'S",Солнце
-http://5.188.221.43:8080/play/disney
-#EXTINF:-1 group-title="CHILDREN'S",Карусель
-http://5.188.221.43:8080/play/karusel
-#EXTINF:-1 group-title="CHILDREN'S",КАРУСЕЛЬ
-http://185.46.16.239:8000/Karusel
-#EXTINF:-1 group-title="CHILDREN'S",Уникум
-http://185.46.16.239:8000/Detskiy
-#EXTINF:-1 group-title="CHILDREN'S",Мульт
-http://185.46.16.239:8000/Mult
-#EXTINF:-1 group-title="CHILDREN'S",Мульт HD
-http://185.46.16.239:8000/Mir_24
-#EXTINF:-1 group-title="CHILDREN'S",В гостях у сказки HD
-http://185.46.16.239:8000/V_gostyakh_u_skazki
-#EXTINF:-1 group-title="CHILDREN'S",Супергерои
-http://185.46.16.239:8000/National_Geographic_HD
-#EXTINF:-1 group-title="CHILDREN'S",Солнце
-http://185.46.16.239:8000/Disney_Channel
-#EXTINF:-1 group-title="CHILDREN'S",Ani
-http://185.46.16.239:8000/Ani
-#EXTINF:-1 group-title="CHILDREN'S",Супергерои
-http://185.78.112.57:8077/malish/index.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",JimJam
-http://185.78.112.57:8077/JimJam/index.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",Nickelodeon
-http://185.78.112.57:8077/nickelodeon/index.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",TiJi
-http://185.78.112.57:8077/TiJi/index.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",О!
-http://185.78.112.57:8077/o_/index.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",Карусель
-http://185.78.112.57:8077/karusel/index.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",Детский мир
-http://185.78.112.57:8077/Detskiy_Mir/index.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",Boomerang
-http://185.78.112.57:8077/Boomerang/index.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",Cartoon network
-http://185.78.112.57:8077/cartoon-net/index.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",Da Vinci
-http://185.78.112.57:8077/DaVinci_Learning/index.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",Ani
-http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",Мульт
-http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",Мульт и музыка
-http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",Пингвин Лоло
-http://62.89.220.15/streams/media/pingvin_720x576/index.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",В гостях у сказки
-http://62.89.220.15/streams/media/v-gostyah-u-skazki_720x576/index.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",Уникум
-http://62.89.220.15/streams/media/detskiy_720x576/index.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",Детский Мир
-http://62.89.220.15/streams/media/detskiy-mir_720x576/index.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",Tiji
-http://62.89.220.15/streams/media/tiji_720x576/index.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",Мама
-http://62.89.220.15/streams/media/mama_720x576/index.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",Ani
-http://62.89.220.15/streams/media/ani_720x576/index.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",Gulli Girl
-http://62.89.220.15/streams/media/gulli-girl_720x576/index.m3u8
-#EXTINF:-1 group-title="CHILDREN'S",СТС Kids
-http://62.89.220.15/streams/media/sts-kids_720x576/index.m3u8
-
-
 #EXTINF:-1 group-title="МУЗИКА 🎶",Nashe Radio
 http://online.nasheradio.ua/NasheRadio_HD
 #EXTINF:-1 group-title="МУЗИКА 🎶",Наше Радіо
@@ -1582,10 +1585,8 @@ http://hls127.freeott.top:8080/NAUKA/video.m3u8
 http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
 #EXTINF:-1 group-title="Cloudflare_Inc",Бобер
 http://hls127.freeott.top:8080/Bober/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",Da Vinci
-http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
-#EXTINF:-1 group-title="Cloudflare_Inc",СТС Kids
-http://hls127.freeott.top:8080/STS_Kids/video.m3u8
+
+
 
 
 
