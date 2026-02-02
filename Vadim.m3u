@@ -12,8 +12,6 @@ https://fl1001.bozztv.com/ushba45/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A2%D0%A1%D0%92.jpg" group-title="Общий",ТСВ HD
 https://tsv.md/stream/hls/tsv-online/0_1/index.m3u8?tkn=2035250559
-#EXTINF:-1 group-title="Общий",Первый ПМР HD (-)
-https://empty.mpd
 #EXTINF:-1 tvg-id="rossia1" tvg-logo="https://iptvx.one/picons/rossia1.png" group-title="Общий",Россия HD
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/pervy.png" group-title="Общий",Первый HD
@@ -29,8 +27,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1 tvg-id="tvcentr" tvg-logo="https://iptvx.one/picons/tvcentr.png" group-title="Общий",ТВЦ
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnh3gV6E0b7VXhpCGGdaLATCNfQgfNmi9_hA&s" group-title="Общий",В гостях у сказки HD (-)
-https://stream08.sputnik24.tv/skazka_hd/index.m3u8
 #EXTINF:-1 tvg-id="mir" tvg-logo="https://iptvx.one/picons/mir.png" group-title="Общий",МИР HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/5kanal-ru.png" group-title="Общий",Петербург — 5 канал
@@ -283,28 +279,22 @@ http://5.188.221.43:8080/play/Pyatnica
 https://edge50.dc.beltelecom.by/ngtrk/smil:belarus3.smil/chunklist_b5160000_sleng.m3u8
 
 
-#EXTINF:-1 group-title="Спорт",Матч ТВ HD
-http://185.78.112.57:8077/match_hd/index.m3u8
-#EXTINF:-1 group-title="Спорт",Матч ТВ
-http://185.78.112.57:8077/match/index.m3u8
 #EXTINF:-1 group-title="Спорт",Матч ТВ
 http://tv.tuva.ru/machtv/index.m3u8
-#EXTINF:-1 group-title="Спорт",МАТЧ ТВ
+#EXTINF:-1 group-title="Спорт",Матч ТВ
 http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Матч ТВ
 http://31.131.141.195:8000/play/1030/index.m3u8
-#EXTINF:-1 group-title="Спорт",Матч ТВ
-http://5.188.221.43:8080/play/match
 #EXTINF:0 tvg-name="Матч ТВ" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",Матч ТВ
 http://gr.seetv.cc/play/5/D70CC021CA87DF2/video.m3u8
 #EXTINF:-1 group-title="Спорт",Матч ТВ
 http://hls127.freeott.top:8080/MATCH_TV/video.m3u8
-#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спорт",МАТЧ! Футбол 1 HD
+#EXTINF:-1 tvg-id="match-tv" tvg-logo="https://iptvx.one/picons/match-tv.png" group-title="Спорт",Матч ТВ
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт", МАТЧ! Планета
+http://158.101.222.193:88/georgia_play.php?id=matchplaneta
 #EXTINF:0 tvg-name="Матч! Футбол 1 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",МАТЧ! Футбол 1 HD
 http://gr.seetv.cc/play/260/D70CC021CA87DF2/video.m3u8
-#EXTINF:0 tvg-name="Матч Футбол 1" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",МАТЧ! Футбол 1
-http://gr.seetv.cc/play/54/D70CC021CA87DF2/video.m3u8
 #EXTINF:0 tvg-name="Матч! Футбол 2 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",МАТЧ! Футбол 2 HD
 http://gr.seetv.cc/play/271/D70CC021CA87DF2/video.m3u8
 #EXTINF:0 tvg-name="Матч! Футбол 3 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",МАТЧ! Футбол 3 HD
@@ -313,30 +303,23 @@ http://gr.seetv.cc/play/329/D70CC021CA87DF2/video.m3u8
 http://gr.seetv.cc/play/250/D70CC021CA87DF2/video.m3u8
 #EXTINF:0 tvg-name="Матч Арена" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",МАТЧ! АРЕНА
 http://gr.seetv.cc/play/136/D70CC021CA87DF2/video.m3u8
-#EXTINF:0 group-title="Спорт",МАТЧ! ИГРА HD (-)
-http://t.m3u8
-#EXTINF:0 group-title="Спорт",МАТЧ! БОЕЦ (-)
-http://t.m3u8
-#EXTINF:0 group-title="Спорт",МАТЧ! ПЛАНЕТА (-)
-http://t.m3u8
+#EXTINF:-1 tvg-id="setanta-sports" tvg-logo="https://iptvx.one/picons/setanta-sports.png" group-title="Спорт",Setanta Sports 1 HD
+http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="setanta-sports-plus" tvg-logo="https://iptvx.one/picons/setanta-sports-plus.png" group-title="Спорт",Setanta Sports 2 HD
+http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="belarus5" tvg-logo="https://iptvx.one/picons/belarus5hd.png" group-title="Спорт",Беларусь 5 HD
+https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
+#EXTINF:-1 tvg-id="konny-mir" tvg-logo="https://iptvx.one/picons/konny-mir.png" group-title="Спорт",Конный 
+https://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="start-basket" tvg-logo="https://iptvx.one/picons/start-basket.png" group-title="Спорт",Старт Баскет
+https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?
 
-
-#EXTINF:0 tvg-name="Megogo Спорт HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",M Спорт HD
-http://gr.seetv.cc/play/1001/D70CC021CA87DF2/video.m3u8
-#EXTINF:0 tvg-name="Megogo Футбол 5 HD" catchup="shift" timeshift="5" catchup-days="5" group-title="Спорт",M Футбол 5 HD
-http://gr.seetv.cc/play/10011/D70CC021CA87DF2/video.m3u8
-#EXTINF:-1 group-title="Спорт",Divi Sport
-https://vcdn.produck.company/out/ngrp:divisport_all/playlist.m3u8
-#EXTINF:-1 group-title="Спорт",X-Stream
-http://iptv.prosto.tv:7000/ch313/video.m3u8?secret=cledwwov
 #EXTINF:-1 group-title="Спорт",ViP Sport 1 HD
 http://de.seetv.cc/play/5009/F153046F2E99D25/video.m3u8
 #EXTINF:-1 group-title="Спорт",ViP Sport 2 HD
 http://de.seetv.cc/play/5010/F153046F2E99D25/video.m3u8
 #EXTINF:-1 group-title="Спорт",ViP Sport 3 HD
 http://de.seetv.cc/play/5011/F153046F2E99D25/video.m3u8
-#EXTINF:-1 group-title="Спорт",ViP Sport 4
-http://vp4hcjiv.rostelekom.xyz/iptv/CTHKNGFSE8DXT3/20105/index.m3u8
 #EXTINF:-1 group-title="Спорт",ViP Sport 4 HD
 http://pl.seetv.cc/play/5012/F153046F2E99D25/video.m3u8
 #EXTINF:-1 group-title="Спорт",ViP Sport 5 HD
@@ -355,102 +338,15 @@ http://de.seetv.cc/play/5019/F153046F2E99D25/video.m3u8
 http://de.seetv.cc/play/5020/F153046F2E99D25/video.m3u8
 #EXTINF:-1 group-title="Спорт",ViP Sport 13 HD
 http://de.seetv.cc/play/5021/F153046F2E99D25/video.m3u8
-#EXTINF:-1 group-title="Спорт",U TV HD
-http://pl.online24.pm/play/523/F153046F2E99D25/video.m3u8
-#EXTINF:-1 group-title="Спорт",SETANTA SPORT 1 HD
-http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт",SETANTA SPORT 2 HD
-http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 1 HD
 http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",Eurosport 2 HD
 http://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт",NHL (Интересные моменты)
 https://nhl-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Спорт",setanta1 HD GEO
-http://94.43.1.138:8081/setanta1/index.m3u8
-#EXTINF:-1 group-title="Спорт",setanta2 HD GEO
-http://94.43.1.138:8081/setanta2/index.m3u8
-#EXTINF:-1 group-title="Спорт",Setanta Sports 1 GE
-http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
-#EXTINF:-1 group-title="Спорт",Eurosport 1 HD
-http://178.134.1.158:8081/eurosport/index.m3u8
-#EXTINF:-1 group-title="Спорт",Матч
-https://32tech0steam0dp01.org/test/matchtv/chunks.m3u8
-#EXTINF:-1 group-title="Спорт",SPORT!!!
-http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт", planeta
-http://158.101.222.193:88/georgia_play.php?id=matchplaneta
 #EXTINF:-1 group-title="Спорт",Бокс ТВ
 http://158.101.222.193:88/georgia_play.php?id=boxtv
-#EXTINF:-1 group-title="Спорт",Беларусь 5 HD
-https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5.smil/playlist.m3u8
-#EXTINF:-1 group-title="Спорт",AYM HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4610
-#EXTINF:-1 group-title="Спорт",KHL HD
-http://86.57.209.210/KHL_HD/index.m3u8
-#EXTINF:-1 group-title="Спорт",SPORT Премьер HD
-http://185.78.112.57:8077/nash_football_hd/index.m3u8
-#EXTINF:-1 group-title="Спорт",SPORT Футбол 1 HD
-http://185.78.112.57:8077/football1_hd/index.m3u8
-#EXTINF:-1 group-title="Спорт",SPORT Футбол 2 HD
-http://185.78.112.57:8077/football2_hd/index.m3u8
-#EXTINF:-1 group-title="Спорт",SPORT Футбол 3 HD
-http://185.78.112.57:8077/football3_hd/index.m3u8
-#EXTINF:-1 group-title="Спорт",Viasat Sport HD
-http://185.78.112.57:8077/ViasatSportHD/index.m3u8
-#EXTINF:-1 group-title="Спорт",Super Sport 1 HD Alb
-http://195.181.169.152:8080/Super_Sport_1_HD_AL/video.m3u8?token=test
-#EXTINF:-1 group-title="Спорт",Super Sport 2 HD Alb
-http://195.181.169.152:8080/Super_Sport_2_HD_AL/video.m3u8?token=test
-#EXTINF:-1 group-title="Спорт",Super Sport 3 HD Alb
-http://195.181.169.152:8080/Super_Sport_3_HD_AL/video.m3u8?token=test
-#EXTINF:-1 group-title="Спорт",Super Sport 4 HD Alb
-http://195.181.169.152:8080/Super_Sport_4_HD_AL/video.m3u8?token=test
-#EXTINF:-1 group-title="Спорт",Premier_Sports_1
-https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
-#EXTINF:-1 group-title="Спорт",Premier_Sports_2
-https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
-#EXTINF:-1 group-title="Спорт",Premier_Sports_4
-https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
-#EXTINF:-1 group-title="Спорт",Premier_Sports_5
-https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
-#EXTINF:-1 group-title="Спорт",CT SPORT HD
-http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
-#EXTINF:-1 group-title="Спорт",SPORT 1 HD
-http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
-#EXTINF:-1 group-title="Спорт",SPORT 2 HD
-http://88.212.15.19/live/test_sport_2/playlist.m3u8
-#EXTINF:-1 group-title="Спорт",BNT 3 HD SPORT
-http://84.54.128.52:9090/play/13001/index.m3u8
-#EXTINF:-1 group-title="Спорт",RING BG
-http://84.54.128.52:9090/play/4001/index.m3u8
-#EXTINF:-1 group-title="Спорт",Eurosport BG
-http://84.54.128.52:9090/play/4003/index.m3u8
-#EXTINF:-1 group-title="Спорт",Eurosport 2 BG
-http://84.54.128.52:9090/play/4004/index.m3u8
-#EXTINF:-1 group-title="Спорт",Turkmen Sport
-http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1 group-title="Спорт",Sports Grid
-https://sportsgrid-tribal.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="Спорт",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="Спорт",Real Madrid
-https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-#EXTINF:-1 group-title="Спорт",TOP Barca
-https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
-#EXTINF:-1 group-title="Спорт",CANAL MOTOR
-http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
-#EXTINF:-1 group-title="Спорт",DAZN Combat German
-https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
-#EXTINF:-1 group-title="Спорт",UFC Network
-https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Спорт",Motor sport revue HD
-https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
-#EXTINF:-1 group-title="Спорт",Bein EXTRAS
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 group-title="Спорт",UNBEATEN
-https://unbeaten-tcl.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="Спорт",TNT Sport 1
 https://7pal.short.gy/tntspts1
 #EXTINF:-1 group-title="Спорт",TNT Sport 2
@@ -459,7 +355,7 @@ https://7pal.short.gy/tntspts2
 https://7pal.short.gy/tntspts3
 #EXTINF:-1 group-title="Спорт",TNT Sport 4
 https://7pal.short.gy/tntspts4
-EXTINF:-1 group-title="Спорт",Eleven Sports 1 4K
+#EXTINF:-1 group-title="Спорт",Eleven Sports 1 4K
 https://7pal.short.gy/11sports1
 #EXTINF:-1 group-title="Спорт",Fox Sports 01
 https://7pal.short.gy/fox501au
@@ -467,26 +363,6 @@ https://7pal.short.gy/fox501au
 https://7pal.short.gy/fox502au
 #EXTINF:-1 group-title="Спорт",Fox Sports 03
 https://7pal.short.gy/fox503au
-#EXTINF:-1 group-title="Спорт",Fox Sports 04
-https://7pal.short.gy/fox504au
-#EXTINF:-1 group-title="Спорт",Fox Sports 05
-https://7pal.short.gy/fox505au
-#EXTINF:-1 group-title="Спорт",Fox Sports 06
-https://7pal.short.gy/fox506au
-#EXTINF:-1 group-title="Спорт",Fox Sports 07
-https://7pal.short.gy/fox507au
-#EXTINF:-1 group-title="Спорт",Tennis Channel
-https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-id="be33d52a2037d5a1afc981819e605de3" ,CZ EUROSPORT11 kolo
-http://185.112.249.46:9981/stream/channelid/718615486?profile=pass
-#EXTINF:-1 group-title="Спорт" tvg-id="82e3fcab219bfeaaff332e60e63801e5" ,CZ EUROSPORT22
-http://185.112.249.46:9981/stream/channelid/737993602?profile=pass
-#EXTINF:-1 group-title="Спорт" tvg-id="584e6d781e08d1eb35bf2ad1bd4b220c" ,CZ PREMIER SPORT1 T3
-http://185.112.249.46:9981/stream/channelid/2020429400?profile=pass
-#EXTINF:-1 group-title="Спорт" tvg-id="af294e348a70d668c0ac1a9fcd983d18" ,CZ PREMIER SPORT2 T2 kolo
-http://185.112.249.46:9981/stream/channelid/877537711?profile=pass
-#EXTINF:-1 group-title="Спорт" tvg-id="4220a473f87bf4f0d160565a805ac543" ,NOVA SPORT6 kolo
-http://185.112.249.46:9981/stream/channelid/1940136002?profile=pass
 #EXTINF:-1 group-title="Спорт",Arena Sport 1 HD
 http://169.150.223.25/ArenaSport1HD/index.m3u8
 #EXTINF:-1 group-title="Спорт",Arena Sport 2 HD
@@ -537,24 +413,10 @@ http://169.150.223.25/ArtSport4/index.m3u8
 http://169.150.223.25/ArtSport5/index.m3u8
 #EXTINF:-1 group-title="Спорт",Art Sport 6 HD
 http://169.150.223.25/ArtSport6/index.m3u8
-#EXTINF:-1 group-title="Спорт",Tring Sport 1 HD
-http://169.150.223.25/TringSport1HD/index.m3u8
-#EXTINF:-1 group-title="Спорт",Tring Sport 2 HD
-http://169.150.223.25/TringSport2HD/index.m3u8
-#EXTINF:-1 group-title="Спорт",KSport 1 HD
-http://169.150.223.25/KSport1/index.m3u8
-#EXTINF:-1 group-title="Спорт",KSport 2 HD
-http://169.150.223.25/KSport2/index.m3u8
-#EXTINF:-1 group-title="Спорт",KSport 3 HD
-http://169.150.223.25/KSport3/index.m3u8
-#EXTINF:-1 group-title="Спорт",KSport 4 HD
-http://169.150.223.25/KSport4/index.m3u8
 #EXTINF:-1 group-title="Спорт",Euro Sport 1 HD
 http://169.150.223.25/Eurosport1HD/index.m3u8
 #EXTINF:-1 group-title="Спорт",Euro Sport 2 HD
 http://169.150.223.25/Eurosport2HD/index.m3u8
-#EXTINF:-1 group-title="Спорт",Fight Network HD
-http://169.150.223.25/FightNetwork/index.m3u8
 #EXTINF:-1 group-title="Спорт",RAI 1 HD
 http://169.150.223.25/Rai1/index.m3u8
 #EXTINF:-1 group-title="Спорт",RAI 2 HD
@@ -563,30 +425,6 @@ http://169.150.223.25/Rai2/index.m3u8
 http://169.150.223.25/Rai3/index.m3u8
 #EXTINF:-1 group-title="Спорт",Rai Sport HD
 http://169.150.223.25/RaiSport/index.m3u8
-#EXTINF:-1 group-title="Спорт",Tr VPN SPORT 1
-http://stream-msk-14.ott.tricolor.tv/dtv/id794_MSKSG-PVR-1–Nash_khokkey1/01/plst.m3u8
-#EXTINF:-1 group-title="Спорт",Tr VPN SPORT 2
-http://stream-msk-07.ott.tricolor.tv/dtv/id732_MSKSG-PVR-1–Nash_khokkey2/03/plst.m3u8
-#EXTINF:-1 group-title="Спорт",Tr VPN SPORT 3
-http://stream-msk-05.ott.tricolor.tv/dtv/id728_MSKSG-PVR-1–Nash_khokkey3/01/plst.m3u8
-
-
-#EXTINF:-1 tvg-id="setanta-sports" tvg-logo="https://iptvx.one/picons/setanta-sports.png" group-title="Спортивные",Setanta Sports 1 HD
-http://vod.splay.uz/live_splay/original/Setanta1HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="setanta-sports-plus" tvg-logo="https://iptvx.one/picons/setanta-sports-plus.png" group-title="Спортивные",Setanta Sports 2 HD
-http://vod.splay.uz/live_splay/original/Setanta2HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="belarus5" tvg-logo="https://iptvx.one/picons/belarus5hd.png" group-title="Спортивные",Беларусь 5 HD
-https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5/playlist.m3u8
-#EXTINF:-1 tvg-id="belarus5-inet" tvg-logo="https://iptvx.one/picons/belarus5-inet.png" group-title="Спортивные" ,Беларусь 5 Интернет HD
-https://ngtrk.dc.beltelecom.by/ngtrk/_definst_/smil:belarus5int/playlist.m3u8
-#EXTINF:-1 tvg-id="konny-mir" tvg-logo="https://iptvx.one/picons/konny-mir.png" group-title="Спортивные",Конный 
-https://cdn-01.bonus-tv.ru/kmir/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="start-basket" tvg-logo="https://iptvx.one/picons/start-basket.png" group-title="Спортивные",Старт Баскет
-https://bl.webcaster.pro/media/playlist/free_621d169e5c631c638136df3cb136c5c9/33_68881676/1080p/b32eaae5fbf1d2b8211543566a1d9a78/4914392769.m3u8?
-#EXTINF:-1 tvg-id="start-triumf" tvg-logo="https://iptvx.one/picons/start-triumf.png" group-title="Спортивные",Старт Триумф HD
-https://bl.webcaster.pro/media/playlist/free_672d700f2f9510be660253786e4406fe_hd/33_85479982/1080p/4eaec8986e2012fb936478856fbf3b4b/4818731006.m3u8?live=15&ref=https://tvstart.ru/ru/pages/start-triumph/
-#EXTINF:-1 tvg-id="animal-planet-eu" tvg-logo="https://iptvx.one/picons/animal-planet-eu.png" group-title="Познавательные",Animal Planet HD
-https://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="Развлекательный",Ю
@@ -749,6 +587,8 @@ http://185.223.125.136:8005/vn?token=test
 http://188.208.197.173/viasat-nature/video.m3u8?token=tvon
 #EXTINF:-1 group-title="Познавательный",Animal Planet HD
 http://185.78.112.57:8077/AnimalPlanetRussiaHD/index.m3u8
+#EXTINF:-1 tvg-id="animal-planet-eu" tvg-logo="https://iptvx.one/picons/animal-planet-eu.png" group-title="Познавательный",Animal Planet HD
+https://vod.splay.uz/live_splay/original/Animal_Planet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательный",Discovery HD
 http://185.78.112.57:8077/DiscoveryChannelHD/index.m3u8
 #EXTINF:-1 group-title="Познавательный",ID HD
@@ -839,10 +679,6 @@ https://5f05e059699ae.streamlock.net/WEB_TBN/ngrp:TBN.stream-adaptive/playlist.m
 http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Познавательный",ЗВЕЗДА плюс
 https://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
-#EXTINF:-1 group-title="Познавательный",Big Planet HD
-http://empty.m3u8
-#EXTINF:-1 group-title="Познавательный",Womens Magazine
-http://empty.m3u8
 
 
 #EXTINF:-1 group-title="Познавательный",ЗЖ
@@ -948,96 +784,214 @@ https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 
 
-#EXTINF:-1 tvg-id="muzyka-pervogo" tvg-logo="https://iptvx.one/picons/muzyka-pervogo.png" group-title="Музыка",Музыка Первого
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Muz_Perv
+
 #EXTINF:-1 tvg-id="ru-tv" tvg-logo="https://iptvx.one/picons/ru-tv.png" group-title="Музыка",RU TV HD
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
-#EXTINF:-1 tvg-id="ru-tv" tvg-logo="https://iptvx.one/picons/ru-tv.png" group-title="Музыка",RU TV
-https://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
 #EXTINF:-1 tvg-id="muztv" tvg-logo="https://iptvx.one/picons/muztv.png" group-title="Музыка",МУЗ HD
 https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
-#EXTINF:-1 tvg-id="bridge-tv-dance" tvg-logo="https://iptvx.one/picons/bridge-tv-dance.png" group-title="Музыка",BRIDGE HITS
-http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Bridge_TV_Hits
 #EXTINF:-1 tvg-id="onemuz" tvg-logo="https://iptvx.one/picons/1muz.png" group-title="Музыка" ,Первый музыкальный HD
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-id="shanson-tv" tvg-logo="https://iptvx.one/picons/shanson-tv.png" group-title="Музыка",Шансон ТВ
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Музыка",Stingray Karaoke
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4591
+#EXTINF:-1 group-title="Музыка",Высоцкий 
+http://ic7.101.ru:8000/stream/pro/aac/64/58
+#EXTINF:-1 group-title="Музыка",Club 85 
+http://stream.laut.fm:80/club85
+#EXTINF:-1 group-title="Музыка",80s Maxi Mix radio
+http://stream.laut.fm:80/maximix
+#EXTINF:-1 group-title="Музыка",90s
+http://prmstrm.1.fm:8000/90s
+#EXTINF:-1 group-title="Музыка",80-90s hits
+http://prmstrm.1.fm:8000/80s_90s
+#EXTINF:-1 group-title="Музыка",60s_70s
+http://prmstrm.1.fm:8000/60s_70s
+#EXTINF:-1 group-title="Музыка",Кино- Последний концерт в Лужниках
+https://v2.catcast.tv/videos/ch40908/171120210453_112762/video.mp4
+#EXTINF:-1 group-title="Музыка",Музыка 1 International
+http://kino-1.catcast.tv/content/37745/index.m3u8
+#EXTINF:-1 group-title="Музыка", Музыка 2 International
+http://kino-1.catcast.tv/content/37742/index.m3u8
+#EXTINF:-1 group-title="Музыка", Музыка Кино International
+http://kino-1.catcast.tv/content/37739/index.m3u8
+#EXTINF:-1 group-title="Музыка",Музыка Кино International
+http://autopilot.catcast.tv/content/37739/index.m3u8
+#EXTINF:-1 group-title="Музыка",Музыка 1 International
+http://autopilot.catcast.tv/content/37745/index.m3u8
+#EXTINF:-1 group-title="Музыка",Музыка 2 International
+http://autopilot.catcast.tv/content/37742/index.m3u8
+#EXTINF:-1 group-title="Музыка",Radio Iglesias
+http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
+#EXTINF:-1 group-title="Музыка",Radio 51
+https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",70-80 TV [it]
+https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",Activa TV (720p)
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+#EXTINF:-1 group-title="Музыка",POP World TV (720p)
+https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
+#EXTINF:-1 group-title="Музыка",Sol Música (720p)
+https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
+#EXTINF:-1 group-title="Музыка",STZ Telebista (1080p)
+https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
+#EXTINF:-1 group-title="Музыка",XPTV1 (720p)
+https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
+#EXTINF:-1 group-title="Музыка",Onda Valencia (720p)
+https://cloudvideo.servers10.com:8081/8116/index.m3u8
+#EXTINF:-1 group-title="Музыка",Retro_Music_Television
+https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",Euro Indie Music Chart
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.imgur.com/s6V8rQd.png",Noroeste TV HD 
+https://cloudvideo.servers10.com:8081/8032/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://i.imgur.com/C5SYw7B.png",NORTEvisión HD
+http://amaru.dyndns.org:8870/0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i9tsnhD.png" group-title="Музыка",Punt 3 Vall Uixó HD
+https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
+#EXTINF:-1 group-title="Музыка",Happy Radio TV 
+https://tv.mediacp.eu:8081/happyradio/index.m3u8
+#EXTINF:-1 group-title="Музыка",1MUS
+http://rtmp.one.by:1300
+#EXTINF:-1 group-title="Музыка",Factoria TV HD
+https://eu1.servers10.com:8081/8010/index.m3u8
+#EXTINF:-1 group-title="Музыка",Trace Urban HD
+https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 group-title="Музыка",Ocko Star
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 group-title="Музыка",Kronehit TV
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:-1 group-title="Музыка",Afrobeats
+https://stream.ecable.tv/afrobeats/index.m3u8
+#EXTINF:-1 group-title="Музыка",Reload Radio Music Power HD
+http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
+#EXTINF:-1 group-title="Музыка",TVM3
+https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",Best of Dance TV
+https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+#EXTINF:-1 group-title="Музыка",V2 Beat HD
+https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
+#EXTINF:-1 group-title="Музыка",Rouge TV 720p
+http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",Groove Radio
+https://streams.radio.co/s14193ab17/listen
+#EXTINF:-1 group-title="Музыка",DeepHouse District
+https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+#EXTINF:-1 group-title="Музыка",V2BEAT
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" ,Qello Concerts by Stingray
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыка" ,Stingray Classic Rock
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыка" ,Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыка" ,Stingray CMusic
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыка" ,Stingray DJAZZ
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыка" ,Stingray Easy Listening
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыка" ,Stingray Flashback 70s
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыка" ,Stingray Hit List
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыка" ,Stingray Holiday Hits
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыка" ,Stingray Hot Country
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыка" ,Stingray Karaoke
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыка" ,Stingray Nothin' But 90s
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыка" ,Stingray Pop Adult
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыка" ,Stingray Remember the 80s
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыка" ,Stingray Rock Alternative
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыка" ,Stingray Romance Latino
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыка" ,Stingray Smooth Jazz
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыка" ,Stingray Soul Storm
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыка" ,Stingray The Spa
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыка" ,Stingray Today's KPOP
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыка" ,Stingray Today's Latin Pop
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыка" ,Stingray Urban Beat
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://www.aparatchi.com/images/TV/7xmusic.png",7X MUSIC
+https://stream.e2is.in/hls/7xMusic.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://epg.it999.ru/img/5606.png",Fresh HD AM
+https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://epg.it999.ru/img2/6116.png",Kiss Kiss TV HD
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://epg.it999.ru/img2/6117.png",Kiss Kiss Italia HD
+https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://epg.it999.ru/img2/6118.png",Kiss Kiss Napoli HD
+https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="http://www.vuemmetv.it/wp-content/uploads/2017/12/VUEMME_logotestata.jpg",Vuemme TV
+http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8
+#EXTINF:-1 tvg-id="RELAX.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/relax.png"  group-title="Музыка",RELAX
+https://dash2.antik.sk/live/test_relax/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Хобби",Кухня
 http://hls127.freeott.top:8080/Kuhnya_TV/video.m3u8
 #EXTINF:-1 tvg-id="eda" tvg-logo="https://iptvx.one/picons/eda.png" group-title="Хобби",Еда
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Eda
-#EXTINF:-1 group-title="Хобби",ТелеКафе (-)
-http://у.m3u8
-#EXTINF:-1 group-title="Хобби",Рыбалка и охота (-)
-http://у.m3u8
-#EXTINF:-1 group-title="Хобби",Диалоги о рыбалке (-)
-http://у.m3u8
 #EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-logo="https://iptvx.one/picons/oxotnik-i-rybolov.png" group-title="Хобби" ,Охотник и рыболов HD
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=HD_Oh_Rbl
-#EXTINF:-1 group-title="Хобби",Оружие (-)
-http://у.m3u8
-#EXTINF:-1 group-title="Хобби",ТРОФЕЙ (-)
-http://у.m3u8
-#EXTINF:-1 group-title="Хобби",АВТО Плюс (-)
-http://у.m3u8
-#EXTINF:-1 group-title="Хобби",Живи (-)
-http://у.m3u8
-#EXTINF:-1 group-title="Хобби",FashionTV (-)
-http://у.m3u8
 #EXTINF:-1 tvg-id="ntv-style" tvg-logo="https://iptvx.one/picons/ntv-style.png" group-title="Хобби" ,НТВ Стиль
 http://cdn2.ntv.ru/th_style/playlist.m3u8
-#EXTINF:-1 group-title="Хобби",Домашние животные (-)
-http://у.m3u8
 #EXTINF:-1 tvg-id="zagorodnaya-zhizn" tvg-logo="https://iptvx.one/picons/zagorodnaya-zhizn.png" group-title="Хобби",Загородная жизнь
 http://185.57.68.33/40/mpegts
 #EXTINF:-1 tvg-id="usadba" tvg-logo="https://iptvx.one/picons/usadba.png" group-title="Хобби",Усадьба
 http://95.66.188.74/Usadba/index.m3u8
-#EXTINF:-1 group-title="Хобби",English Class (-)
-http://у.m3u8
-#EXTINF:-1 group-title="Хобби",Рыболов (-)
-http://у.m3u8
 
-#EXTINF:-1 group-title="Хобби и увлечения",Рыбалка
+#EXTINF:-1 group-title="Хобби",Рыбалка
 http://iptv.prosto.tv:7000/ch344/video.m3u8
-#EXTINF:-1 tvg-id="luxury-hd" tvg-logo="https://iptvx.one/picons/luxury-hd.png" group-title="Хобби и увлечения",Luxury HD
+#EXTINF:-1 tvg-id="luxury-hd" tvg-logo="https://iptvx.one/picons/luxury-hd.png" group-title="Хобби",Luxury HD
 http://s1.tv-nano.com/Luxury_rec/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="dikiy" tvg-logo="https://iptvx.one/picons/dikiy.png" group-title="Хобби и увлечения",ДИКИЙ охота и рыбалка
+#EXTINF:-1 tvg-id="dikiy" tvg-logo="https://iptvx.one/picons/dikiy.png" group-title="Хобби",ДИКИЙ охота и рыбалка
 https://vod.splay.uz/live_splay/original/Dikiy/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="zagorodny" tvg-logo="https://iptvx.one/picons/zagorodny.png" group-title="Хобби и увлечения",Загородный
+#EXTINF:-1 tvg-id="zagorodny" tvg-logo="https://iptvx.one/picons/zagorodny.png" group-title="Хобби",Загородный
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Zagorod_TV
-#EXTINF:-1 tvg-id="zdorovoe-tv" tvg-logo="https://iptvx.one/picons/zdorovoe-tv.png" group-title="Хобби и увлечения",Здоровое ТВ
+#EXTINF:-1 tvg-id="zdorovoe-tv" tvg-logo="https://iptvx.one/picons/zdorovoe-tv.png" group-title="Хобби",Здоровое ТВ
 http://95.66.188.74/ZdorovoeTV/index.m3u8
-#EXTINF:-1 tvg-id="otkryty-mir" tvg-logo="https://iptvx.one/picons/otkryty-mir.png" group-title="Хобби и увлечения",Открытый 
+#EXTINF:-1 tvg-id="otkryty-mir" tvg-logo="https://iptvx.one/picons/otkryty-mir.png" group-title="Хобби",Открытый 
 http://v4.proofix.ru/0mir/index.m3u8
-#EXTINF:-1 tvg-id="svetloe-tv" tvg-logo="https://iptvx.one/picons/svetloe-tv.png" group-title="Хобби и увлечения" ,Светлое ТВ
+#EXTINF:-1 tvg-id="svetloe-tv" tvg-logo="https://iptvx.one/picons/svetloe-tv.png" group-title="Хобби" ,Светлое ТВ
 http://176.107.219.20:9000/play/a009/index.m3u8
-#EXTINF:-1 tvg-id="teleputeshestvia" tvg-logo="https://iptvx.one/picons/teleputeshestvia.png" group-title="Хобби и увлечения",Телепутешествия
+#EXTINF:-1 tvg-id="teleputeshestvia" tvg-logo="https://iptvx.one/picons/teleputeshestvia.png" group-title="Хобби",Телепутешествия
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Telepyt
-#EXTINF:-1 tvg-id="tonus-tv" tvg-logo="https://iptvx.one/picons/tonus-tv.png" group-title="Хобби и увлечения",Тонус
+#EXTINF:-1 tvg-id="tonus-tv" tvg-logo="https://iptvx.one/picons/tonus-tv.png" group-title="Хобби",Тонус
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Tonus
 
 
-#EXTINF:-1 group-title="МОЛДОВА 🇲🇩",Realitatea TV
+#EXTINF:-1 group-title="Молдова",Realitatea TV
 https://realitatealive.md/tv/rlive.m3u8
-#EXTINF:-1 group-title="МОЛДОВА 🇲🇩",Moldova TV sd
+#EXTINF:-1 group-title="Молдова",Moldova TV sd
 http://89.38.8.130:39435
-#EXTINF:-1 group-title="МОЛДОВА 🇲🇩",TVNord
+#EXTINF:-1 group-title="Молдова",TVNord
 https://6065d3147e895.streamlock.net:4444/npcl/live/playlist.m3u8
-#EXTINF:-1 group-title="МОЛДОВА 🇲🇩",Moldova 1
+#EXTINF:-1 group-title="Молдова",Moldova 1
 https://v0.trm.md/static/streaming-playlists/hls/9b79338b-1870-4cd7-91d4-0f6ce5cac7ca/master.m3u8
-#EXTINF:-1 group-title="МОЛДОВА 🇲🇩",Prima News SD
+#EXTINF:-1 group-title="Молдова",Prima News SD
 http://185.164.82.18:9009/aDxLhVQm_PrimaNews
-#EXTINF:-1 group-title="МОЛДОВА 🇲🇩",Cinemaraton
+#EXTINF:-1 group-title="Молдова",Cinemaraton
 http://185.164.82.18:9009/aDxLhVQm_Cinematron
-#EXTINF:-1 group-title="МОЛДОВА 🇲🇩",7TV
+#EXTINF:-1 group-title="Молдова",7TV
 http://185.164.82.18:9009/aDxLhVQm_7TV
-#EXTINF:-1 group-title="МОЛДОВА 🇲🇩",Prima Tv Moldova HD
+#EXTINF:-1 group-title="Молдова",Prima Tv Moldova HD
 http://185.164.82.18:9009/aDxLhVQm_PrimaTVMoldova
-#EXTINF:-1 group-title="МОЛДОВА 🇲🇩",BUSUIOC
+#EXTINF:-1 group-title="Молдова",BUSUIOC
 http://185.164.82.18:9009/aDxLhVQm_Busuioc
-#EXTINF:-1 group-title="МОЛДОВА 🇲🇩",Drive
+#EXTINF:-1 group-title="Молдова",Drive
 http://185.164.82.18:9009/aDxLhVQm_Drive
 
 
@@ -1383,160 +1337,6 @@ http://gr.seetv.cc/play/1980/D70CC021CA87DF2/video.m3u8
 http://gr.seetv.cc/play/1981/D70CC021CA87DF2/video.m3u8
 #EXTINF:0 tvg-name="Clarity4K Единоборства" group-title="TEST-Спорт",Clarity4K Единоборства
 http://gr.seetv.cc/play/4611/D70CC021CA87DF2/video.m3u8
-
-
-#EXTINF:-1 group-title="МУЗИКА 🎶",Nashe Radio
-http://online.nasheradio.ua/NasheRadio_HD
-#EXTINF:-1 group-title="МУЗИКА 🎶",Наше Радіо
-http://online.nasheradio.ua/NasheRadio
-#EXTINF:-1 group-title="МУЗИКА 🎶",Nashe Radio UktTop100
-http://online.nasheradio.ua/NasheRadio_Ukr_HD
-#EXTINF:-1 group-title="МУЗИКА 🎶",Наше Радіо Live
-http://online.nasheradio.ua/NasheRadio_Live
-#EXTINF:-1 group-title="МУЗИКА 🎶",Stingray Karaoke
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4591
-#EXTINF:-1 group-title="МУЗИКА 🎶",Высоцкий 
-http://ic7.101.ru:8000/stream/pro/aac/64/58
-#EXTINF:-1 group-title="МУЗИКА 🎶",Club 85 
-http://stream.laut.fm:80/club85
-#EXTINF:-1 group-title="МУЗИКА 🎶",80s Maxi Mix radio
-http://stream.laut.fm:80/maximix
-#EXTINF:-1 group-title="МУЗИКА 🎶",90s
-http://prmstrm.1.fm:8000/90s
-#EXTINF:-1 group-title="МУЗИКА 🎶",80-90s hits
-http://prmstrm.1.fm:8000/80s_90s
-#EXTINF:-1 group-title="МУЗИКА 🎶",60s_70s
-http://prmstrm.1.fm:8000/60s_70s
-#EXTINF:-1 group-title="МУЗИКА 🎶",Кино- Последний концерт в Лужниках
-https://v2.catcast.tv/videos/ch40908/171120210453_112762/video.mp4
-#EXTINF:-1 group-title="МУЗИКА 🎶",Музыка 1 International
-http://kino-1.catcast.tv/content/37745/index.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶", Музыка 2 International
-http://kino-1.catcast.tv/content/37742/index.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶", Музыка Кино International
-http://kino-1.catcast.tv/content/37739/index.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶",Музыка Кино International
-http://autopilot.catcast.tv/content/37739/index.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶",Музыка 1 International
-http://autopilot.catcast.tv/content/37745/index.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶",Музыка 2 International
-http://autopilot.catcast.tv/content/37742/index.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶",Radio Iglesias
-http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶",Radio 51
-https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶",70-80 TV [it]
-https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶",Activa TV (720p)
-https://streamtv.mediasector.es/hls/activatv/index.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶",POP World TV (720p)
-https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶",Sol Música (720p)
-https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶",STZ Telebista (1080p)
-https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶",XPTV1 (720p)
-https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶",Onda Valencia (720p)
-https://cloudvideo.servers10.com:8081/8116/index.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶",Retro_Music_Television
-https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶",Euro Indie Music Chart
-http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶" tvg-logo="https://i.imgur.com/s6V8rQd.png",Noroeste TV HD 
-https://cloudvideo.servers10.com:8081/8032/index.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶" tvg-logo="https://i.imgur.com/C5SYw7B.png",NORTEvisión HD
-http://amaru.dyndns.org:8870/0.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i9tsnhD.png" group-title="МУЗИКА 🎶",Punt 3 Vall Uixó HD
-https://bit.controlstreams.com:5443/LiveApp/streams/punt3.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶",Happy Radio TV 
-https://tv.mediacp.eu:8081/happyradio/index.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶",1MUS
-http://rtmp.one.by:1300
-#EXTINF:-1 group-title="МУЗИКА 🎶",Factoria TV HD
-https://eu1.servers10.com:8081/8010/index.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶",Trace Urban HD
-https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶",Ocko Star
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶",Kronehit TV
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶",Afrobeats
-https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶",Reload Radio Music Power HD
-http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶",TVM3
-https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶",Best of Dance TV
-https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶",V2 Beat HD
-https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶",Rouge TV 720p
-http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶",Groove Radio
-https://streams.radio.co/s14193ab17/listen
-#EXTINF:-1 group-title="МУЗИКА 🎶",DeepHouse District
-https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶",V2BEAT
-https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶" ,Qello Concerts by Stingray
-https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶" ,Stingray Classic Rock
-https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶" ,Stingray Classica
-https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶" ,Stingray CMusic
-https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶" ,Stingray DJAZZ
-https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶" ,Stingray Easy Listening
-https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶" ,Stingray Flashback 70s
-https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶" ,Stingray Hit List
-https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶" ,Stingray Holiday Hits
-https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶" ,Stingray Hot Country
-https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶" ,Stingray Karaoke
-https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶" ,Stingray Nothin' But 90s
-https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶" ,Stingray Pop Adult
-https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶" ,Stingray Remember the 80s
-https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶" ,Stingray Rock Alternative
-https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶" ,Stingray Romance Latino
-https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶" ,Stingray Smooth Jazz
-https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶" ,Stingray Soul Storm
-https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶" ,Stingray The Spa
-https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶" ,Stingray Today's KPOP
-https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶" ,Stingray Today's Latin Pop
-https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶" ,Stingray Urban Beat
-https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶" tvg-logo="https://www.aparatchi.com/images/TV/7xmusic.png",7X MUSIC
-https://stream.e2is.in/hls/7xMusic.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶" tvg-logo="http://epg.it999.ru/img/5606.png",Fresh HD AM
-https://freshtv-live.ru/FreshTV/tracks-v1a1/mono.m3u8?token=livestream
-#EXTINF:-1 group-title="МУЗИКА 🎶" tvg-logo="http://epg.it999.ru/img2/6116.png",Kiss Kiss TV HD
-https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶" tvg-logo="http://epg.it999.ru/img2/6117.png",Kiss Kiss Italia HD
-https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶" tvg-logo="http://epg.it999.ru/img2/6118.png",Kiss Kiss Napoli HD
-https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
-#EXTINF:-1 group-title="МУЗИКА 🎶" tvg-logo="http://www.vuemmetv.it/wp-content/uploads/2017/12/VUEMME_logotestata.jpg",Vuemme TV
-http://5db313b643fd8.streamlock.net:1935/HITTV/HITTV/chunklist.m3u8
-#EXTINF:-1 tvg-id="RELAX.cz" tvg-country="CZ" tvg-language="Czech" tvg-logo="https://raw.githubusercontent.com/MarhyCZ/picons/master/640/relax.png"  group-title="МУЗИКА 🎶",RELAX
-https://dash2.antik.sk/live/test_relax/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Cloudflare_Inc", BCU Kinorating
@@ -1926,6 +1726,7 @@ https://sitv.ru/hls/stv1024.m3u8
 https://live-topspb-geo.cdnvideo.ru/topspb-m4f/m4f-stream/playlist.m3u8
 #EXTINF:-1 tvg-id="sarov-24" tvg-logo="https://iptvx.one/picons/sarov-24.png" group-title="Региональные",Саров 24 HD
 http://serv30.vintera.tv:8081/sarov/sarov_stream/playlist.m3u8
+
 
 
 
